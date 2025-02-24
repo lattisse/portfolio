@@ -1,1 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible+Next:ital,wght@0,200..800;1,200..800&display=swap');
 @import 'tailwindcss';
+
+@theme {
+	--color-heading: #fffffe;
+	--color-paragraph: #94a1b2;
+	--color-highlight: #7f5af0;
+}
+
+@layer base {
+    html {
+      font-family: "Atkinson Hyperlegible Next", serif;
+      background: #16161a;
+      @apply antialiased;
+
+    }
+  }
