@@ -6,6 +6,7 @@
 	--color-heading: #fffffe;
 	--color-paragraph: #94a1b2;
 	--color-highlight: #7f5af0;
+  --color-bg: #16161a;
 }
 
 @layer base {
