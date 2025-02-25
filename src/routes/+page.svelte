@@ -1,3 +1,12 @@
+<svelte:head>
+	<title>Crystal</title>
+	<meta
+		name="description"
+		content="A random guy on the internet learning everything that interests me."
+	/>
+	<meta name="robots" content="index, follow" />
+</svelte:head>
+
 <div class="flex min-h-dvh items-center justify-center">
 	<section id="main">
 		<h1 class="text-heading mx-2 text-center text-2xl font-bold md:text-6xl 2xl:text-8xl">
