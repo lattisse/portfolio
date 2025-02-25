@@ -22,6 +22,10 @@
 			>
 				<i class="fa-brands fa-linkedin text-paragraph hover:text-heading text-4xl md:text-6xl"></i>
 			</a>
+			<!--email-->
+			<a href="mailto:crystalbajgai@gmail.com" aria-label="email icon" target="_blank" class="">
+				<i class="fa-solid fa-envelope text-paragraph hover:text-heading text-4xl md:text-6xl"></i>
+			</a>
 		</div>
 	</section>
 </div>

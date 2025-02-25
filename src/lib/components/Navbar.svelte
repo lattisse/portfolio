@@ -88,7 +88,6 @@
 				<a href="/" class="" onclick={toggleMenu}> Home </a>
 				<a href="/projects" onclick={toggleMenu}> Projects </a>
 				<a href="/blog" onclick={toggleMenu}> Blog </a>
-				<a href="/contacts" onclick={toggleMenu}> Contacts </a>
 			</div>
 		</div>
 	{:else}
@@ -96,7 +95,6 @@
 			<a href="/" class="hover:text-heading">Home</a>
 			<a href="/projects" class="hover:text-heading">Projects</a>
 			<a href="/blog" class="hover:text-heading">Blog</a>
-			<a href="/contacts" class="hover:text-heading">Contact</a>
 		</div>
 	{/if}
 </nav>
