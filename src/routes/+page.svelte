@@ -9,21 +9,31 @@
 			I love building cool things and trying out new ideas.
 		</p>
 		<div class="mt-6 flex flex-row justify-center space-x-8 md:space-x-10 2xl:mt-8 2xl:space-x-12">
-			<!--github-->
-			<a href="https://github.com/crystalbajgai" aria-label="github icon" target="_blank" class="">
+			<!-- GitHub -->
+			<a
+				href="https://github.com/crystalbajgai"
+				aria-label="github icon"
+				target="_blank"
+				class="transform transition-transform duration-100 hover:scale-105"
+			>
 				<i class="fa-brands fa-github text-paragraph hover:text-heading text-4xl md:text-6xl"></i>
 			</a>
-			<!--linkedin-->
+			<!-- LinkedIn -->
 			<a
 				href="https://www.linkedin.com/in/crystalbajgai/"
 				aria-label="linkedin icon"
 				target="_blank"
-				class=""
+				class="transform transition-transform duration-100 hover:scale-105"
 			>
 				<i class="fa-brands fa-linkedin text-paragraph hover:text-heading text-4xl md:text-6xl"></i>
 			</a>
-			<!--email-->
-			<a href="mailto:crystalbajgai@gmail.com" aria-label="email icon" target="_blank" class="">
+			<!-- Email -->
+			<a
+				href="mailto:crystalbajgai@gmail.com"
+				aria-label="email icon"
+				target="_blank"
+				class="transform transition-transform duration-100 hover:scale-105"
+			>
 				<i class="fa-solid fa-envelope text-paragraph hover:text-heading text-4xl md:text-6xl"></i>
 			</a>
 		</div>

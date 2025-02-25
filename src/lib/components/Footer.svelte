@@ -17,6 +17,14 @@
 	});
 </script>
 
-<footer class = {`fixed bottom-0 font-medium md:text-xl ${isMobile ? 'left-1/2 transform -translate-x-1/2 pb-2' : 'left-0 p-6'}`}>
-    <p class="text-paragraph whitespace-nowrap">Made on Earth by <span class="text-highlight">Crystal Bajgai</span></p>
+<footer
+	class={`fixed bottom-0 font-medium md:text-xl ${isMobile ? 'left-1/2 -translate-x-1/2 transform pb-2' : 'left-0 p-6'}`}
+>
+	<p class="text-paragraph whitespace-nowrap">
+		Made on Earth by <a
+			class="text-highlight"
+			href="https://github.com/crystalbajgai"
+			target="_blank">Crystal Bajgai</a
+		>
+	</p>
 </footer>
