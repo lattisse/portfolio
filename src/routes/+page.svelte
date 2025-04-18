@@ -20,7 +20,7 @@
 		<div class="mt-6 flex flex-row justify-center space-x-8 md:space-x-10 2xl:mt-8 2xl:space-x-12">
 			<!-- GitHub -->
 			<a
-				href="https://github.com/crystalbajgai"
+				href="https://github.com/lattisse"
 				aria-label="github icon"
 				target="_blank"
 				class="transform transition-transform duration-100 hover:scale-105"
